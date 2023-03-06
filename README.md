@@ -1,5 +1,7 @@
 # Ddos_Attack
 
+ <h1>Installation Commands</h1>
+
 - $ `pkg update && pkg upgrade`
 
 - $ `pkg install python`
@@ -19,3 +21,7 @@
 - $ `ls`
 
 - $ `python Arewa-attack.py`
+
+<h1>❌Disclaimer❌</h1>
+OnlY Use This tool for Educational Purposes only
+
